@@ -5,6 +5,7 @@ public class HelloWorldGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("LOL");
+		System.out.println("Alguem editou isso aqui");
 	}
 
 }
